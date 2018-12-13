@@ -11,3 +11,6 @@ Rebuilding website
 - added content with waving hand to the header
 - add grids to accomdate the select work images
 - styled the heading tags
+=======
+#live link
+- https://neontsoara.github.io/project-2/index.html
