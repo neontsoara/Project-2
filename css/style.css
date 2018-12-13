@@ -128,6 +128,7 @@ a {
   transition: .2s;
   color: #ff3;
   padding: 0 10px;
+  font-weight: 700;
 }
 a:hover {
   color: #575656;

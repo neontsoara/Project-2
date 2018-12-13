@@ -15,3 +15,6 @@ Rebuilding website
 #12 November 2018
 - edited the font-sizes and font-weights
 - positioned the images of the photography section
+
+#13 November 2018
+- worked on the responsiveness for mobile and tablet view
